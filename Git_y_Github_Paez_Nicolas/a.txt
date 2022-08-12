@@ -1,0 +1,1 @@
+Linus Torvalds lo ideo para posibilitar la ramificación y el etiquetado como procesos de primera importancia, es decir, para tener un sistema de control de versiones del codigo fuente.
